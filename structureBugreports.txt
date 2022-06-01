@@ -1,0 +1,13 @@
+Короткое описание (Summary)
+Проект (Project)
+Номер версии (Version)
+Компонент приложения (Component)
+Серьезность (Severity)
+Приоритет (Priority)	
+Автор (Author)
+Назначен на (Assigned To)
+Окружение
+Шаги воспроизведения (Steps to Reproduce)
+Фактический Результат (Result)
+Ожидаемый результат (Expected Result)
+Прикрепленный файл (Attachment)
